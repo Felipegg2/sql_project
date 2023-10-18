@@ -1,5 +1,10 @@
 # sql_project
 
+![61006163_Vp-K_bKv-_miDOtViklbRv31hUYMZjVrcYT4-_VepJs](https://github.com/Felipegg2/sql_project/assets/147356131/7513b157-e31a-49a6-8395-060ee65a80b9)
+Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/ca/ontario/bay-street-video-290080737)
+
+
+
 # 🚀 Project Name:
 SQL Project: DVD Rental Store
 
@@ -31,7 +36,7 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 
 # 📂 About Database
 
-The database is property of PostgreSQLTutorial.com and it is available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) and it provides information about the business processes of a DVD rental store. 
+The database is property of PostgreSQLTutorial.com and it is available [here.](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) It provides information about the business processes of a DVD rental store. 
 
 
 The DVD rental database has many objects, including:
@@ -71,7 +76,7 @@ Note: On PostgreSQL you can get some basic charts. Hopefully, some graphs will h
 
 9️⃣ [QUERY 9:](https://github.com/Felipegg2/sql_project/tree/master/Query%209) This query shows how the films are distributed within special features and rating. It's ordered by number of films, special features and rating.
 
-🔟 [QUERY 10:](https://github.com/Felipegg2/sql_project/tree/master/Query%210) This query shows a table grouped by how many actors there are in films and the number of films with the same number of actors.
+🔟 [QUERY 10:](https://github.com/Felipegg2/sql_project/tree/master/Query%2010) This query shows a table grouped by how many actors there are in films and the number of films with the same number of actors.
 
 
 # 📖 DVD Rental ER Model
