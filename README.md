@@ -23,11 +23,31 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 ✔️ Enjoy data!
 
 
+# 💻 Resources
+
+🔨 pgAdmin 4 (version 7)
+🔑 PostgreSQL (Version: 15.3)
+🔧 GitHub (Version: 2.23.0)
+
+# 📂 About Database
+
+The database is property of PostgreSQLTutorial.com and it is available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) and it provides information about the business processes of a DVD rental store. 
+
+
+The DVD rental database has many objects, including:
+
+📍 15 tables
+📍 1 trigger
+📍 7 views 
+📍 8 functions
+📍 1 domain
+📍 13 sequences
+
+
+
 # 📋 Description:
 
-Next, you find a short sketch for each query developed. What attributes were used to achieved 
-
-1️⃣       
+Next, you find a short sketch for each query developed. What fields were used to develop each query, and some details like how the information was grouped and sorted. The description is linked with its folder respectfully. 
 
 1️⃣ [QUERY 1:](https://github.com/Felipegg2/sql_project/tree/master/Query%201) This query lists films, actors, rating, language and their length. It's ordering by length.
 
@@ -40,7 +60,7 @@ Next, you find a short sketch for each query developed. What attributes were use
 5️⃣ [QUERY 5:](https://github.com/Felipegg2/sql_project/tree/master/Query%205) This query shows the films rented and returned. They are ordering by Title, last renting length, and inventory id.
 
 6️⃣[QUERY 6:](https://github.com/Felipegg2/sql_project/tree/master/Query%206) This query shows how the payments have been evolving throughout time.
-Note: On PostgreSQL you can get some basic charts. Hopefully, some graphs will help you to understand some data trends quickly. For instance, below you can check graphic representation of Query 6.
+Note: On PostgreSQL you can get some basic charts. Hopefully, some graphs will help you to understand some data trends quickly. For instance, below you can check graphic representation of Query 6:
 
 ![Payments evolving](https://github.com/Felipegg2/sql_project/assets/147356131/d5342e24-ae9b-4b2f-b2e6-793a798b2df7)
 
@@ -54,30 +74,18 @@ Note: On PostgreSQL you can get some basic charts. Hopefully, some graphs will h
 🔟 [QUERY 10:](https://github.com/Felipegg2/sql_project/tree/master/Query%210) This query shows a table grouped by how many actors there are in films and the number of films with the same number of actors.
 
 
-# 💻 Resources
-
-🔨 pgAdmin 4 (version 7)
-🔑 PostgreSQL (Version: 15.3)
-🔧 GitHub (Version: 2.23.0)
-
-# 📂 About Database
-
-The DVD rental database represents the business processes of a DVD rental store. The DVD rental database has many objects, including:
-
-📍 15 tables
-📍 1 trigger
-📍 7 views 
-📍 8 functions
-📍 1 domain
-📍 13 sequences
-
 # 📖 DVD Rental ER Model
+
+This is the relationship representation among tables in the database. It is provided by PostgreSQLTutorial.com.
 
 <img width="495" alt="248960775-5c55cbde-9e67-4363-99bc-177bf7903882" src="https://github.com/Felipegg2/sql_project/assets/147356131/5de6170b-3970-48b2-9ca3-6a23ffd37bcd">
 
 Source: PostgreSQL Tutorial Website.
 - 🌐 [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) ; or
-- 📥 [Download Here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
 
 # 😎 Contributer
 - [Felipe Gonzalez](https://www.linkedin.com/in/felipegzgc)
+
+
+
