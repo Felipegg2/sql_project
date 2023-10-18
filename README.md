@@ -25,12 +25,16 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 
 # 📋 Description:
 
+Next, you find a short sketch for each query developed. What attributes were used to achieved 
+
+
 To kickstart our journey into the PostgreSQL universe, let's delve into a sample project using the PostgreSQL Sample Database. This project is a fantastic starting point to grasp the core concepts and functionalities of PostgreSQL. You can access the sample database and explore the project by following the link below:
 
 # 💻 Resources
-a. pgAdmin 4 v7 
-b. PostgreSQL (Version: 15.3)
-c. GitHub (Version: 2.23.0)
+
+🔨 pgAdmin 4 v7
+🔑 PostgreSQL (Version: 15.3)
+🔧 GitHub (Version: 2.23.0)
 
 # 📂 About Database
 
