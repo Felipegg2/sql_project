@@ -7,7 +7,7 @@ Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/
 
 
 
-# 🚀 Project Name: SQL Project: DVD Rental Store
+# 🚀 Project Name: SQL Project DVD Rental Store
 
 
 ## 😎 Developed by:
