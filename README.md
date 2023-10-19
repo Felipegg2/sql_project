@@ -2,6 +2,7 @@
 
 ![61006163_Vp-K_bKv-_miDOtViklbRv31hUYMZjVrcYT4-_VepJs](https://github.com/Felipegg2/sql_project/assets/147356131/7513b157-e31a-49a6-8395-060ee65a80b9)
 
+
 Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/ca/ontario/bay-street-video-290080737)
 
 
@@ -96,15 +97,16 @@ Source: PostgreSQL Tutorial Website.
 - 🌐 You might access it in this [link.](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
 
+
 # 📖 Conclusions
 
 It is quite important to expand our knowledge and to integrate multiple data sources. This can add complexity and real-world relevance to the analysis. This project serves as a similar example of how SQL can transform data into actionable insights. The possibilities are limitless, uncover new stories hidden within the numbers. Nowadays, data is the new gold, and SQL is one of the keys to unlocking its value.
 
 
-## Happy querying! "_May the "data" be with you_"👽
+### Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.
 
 
-# 👋
-Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.
 
+## Happy querying! 
 ### Keep learning, keep exploring, and keep innovating! See you soon.
+### "_May the "data" be with you_"👽
