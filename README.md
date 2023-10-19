@@ -1,6 +1,7 @@
 # sql_project
 
 ![61006163_Vp-K_bKv-_miDOtViklbRv31hUYMZjVrcYT4-_VepJs](https://github.com/Felipegg2/sql_project/assets/147356131/7513b157-e31a-49a6-8395-060ee65a80b9)
+
 Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/ca/ontario/bay-street-video-290080737)
 
 
@@ -8,7 +9,7 @@ Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/
 # 🚀 Project Name: SQL Project: DVD Rental Store
 
 
-## 😎 Develop by:
+## 😎 Developed by:
 
 
 - [Felipe Gonzalez](https://www.linkedin.com/in/felipegzgc)
@@ -26,7 +27,7 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 
 ✔️ To explore the available tools to do analysis with PostgreSQL, like charts, tables, math and text functions developed in SQL.
 
-✔️ To develop 10 queries on PostgreSQL with their .cvs file. These queries seek to explain how the data is distributed and sorted into 15 different tables.
+✔️ To develop 10 queries on PostgreSQL with one .cvs database of DVD rental store. These queries seek to explain how the data is distributed and sorted into 15 different tables.
 
 ✔️ To share through a blog on GitHub the results of that process. How the queries were coded and if the results achieved support a right analytical position.
 
@@ -36,13 +37,13 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 # 💻 Resources
 
 🔨 pgAdmin 4 (version 7)
-🔑 PostgreSQL (Version: 15.3)
-🔧 GitHub (Version: 2.23.0)
+🔑 PostgreSQL (Version: 16)
+🔧 GitHub Desktop and [Online Version.](https://github.com/)
 
 
 # 📂 About Database
 
-The database is property of PostgreSQLTutorial.com and it is available [here.](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) It provides information about the business processes of a DVD rental store. 
+The database is property of PostgreSQLTutorial.com and it is available [here.](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) It provides information about the business databases of a DVD rental store. It can be used for learning and practicing PostgreSQL.
 
 
 The DVD rental database has many objects, including:
@@ -70,7 +71,8 @@ Next, you find a short sketch for each query developed. What fields were used to
 5️⃣ [QUERY 5:](https://github.com/Felipegg2/sql_project/tree/master/Query%205) This query shows the films rented and returned. They are ordering by Title, last renting length, and inventory id.
 
 6️⃣[QUERY 6:](https://github.com/Felipegg2/sql_project/tree/master/Query%206) This query shows how the payments have been evolving throughout time.
-Note: On PostgreSQL you can get some basic charts. Hopefully, some graphs will help you to understand some data trends quickly. For instance, below you can check graphic representation of Query 6:
+
+**Note: On PostgreSQL you can get some _basic charts_. Hopefully, those graphs will help you to understand some data trends quickly. For instance, below you can check graphic representation of Query 6:**
 
 ![Payments evolving](https://github.com/Felipegg2/sql_project/assets/147356131/d5342e24-ae9b-4b2f-b2e6-793a798b2df7)
 
@@ -99,10 +101,10 @@ Source: PostgreSQL Tutorial Website.
 It is quite important to expand our knowledge and to integrate multiple data sources. This can add complexity and real-world relevance to the analysis. This project serves as a similar example of how SQL can transform data into actionable insights. The possibilities are limitless, uncover new stories hidden within the numbers. Nowadays, data is the new gold, and SQL is one of the keys to unlocking its value.
 
 
-## Happy querying! 👽_"May the <<data>> be with you"_👽
+## Happy querying! "_May the "data" be with you_"👽
 
 
 # 👋
-Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in IT.
+Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.
 
-### Keep learning, keep exploring, and keep innovating! 
+### Keep learning, keep exploring, and keep innovating! See you soon.
