@@ -5,8 +5,13 @@ Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/
 
 
 
-# 🚀 Project Name:
-SQL Project: DVD Rental Store
+# 🚀 Project Name: SQL Project: DVD Rental Store
+
+
+## 😎 Develop by:
+
+
+- [Felipe Gonzalez](https://www.linkedin.com/in/felipegzgc)
 
 
 # 📜 Introduction
@@ -19,11 +24,11 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 
 # 💯 Objectives:
 
-✔️ Explore the available tools to do analysis with PostgreSQL, like charts, tables, math and text functions developed in SQL.
+✔️ To explore the available tools to do analysis with PostgreSQL, like charts, tables, math and text functions developed in SQL.
 
-✔️ Develop 10 queries on PostgreSQL with their .cvs file. These queries seek to explain how the data is distributed and sorted into 15 different tables.
+✔️ To develop 10 queries on PostgreSQL with their .cvs file. These queries seek to explain how the data is distributed and sorted into 15 different tables.
 
-✔️ Share through a blog on GitHub the results of that process. How the queries were coded and if the results achieved support a right analytical position.
+✔️ To share through a blog on GitHub the results of that process. How the queries were coded and if the results achieved support a right analytical position.
 
 ✔️ Enjoy data!
 
@@ -33,6 +38,7 @@ PostgreSQL, a powerful open-source relational database system, stands tall in th
 🔨 pgAdmin 4 (version 7)
 🔑 PostgreSQL (Version: 15.3)
 🔧 GitHub (Version: 2.23.0)
+
 
 # 📂 About Database
 
@@ -47,7 +53,6 @@ The DVD rental database has many objects, including:
 📍 8 functions
 📍 1 domain
 📍 13 sequences
-
 
 
 # 📋 Description:
@@ -81,16 +86,23 @@ Note: On PostgreSQL you can get some basic charts. Hopefully, some graphs will h
 
 # 📖 DVD Rental ER Model
 
-This is the relationship representation among tables in the database. It is provided by PostgreSQLTutorial.com.
+This is the relationship representation among tables in the DVD Rental database. It is provided by PostgreSQLTutorial.com.
 
 <img width="495" alt="248960775-5c55cbde-9e67-4363-99bc-177bf7903882" src="https://github.com/Felipegg2/sql_project/assets/147356131/5de6170b-3970-48b2-9ca3-6a23ffd37bcd">
 
 Source: PostgreSQL Tutorial Website.
-- 🌐 [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) ; or
+- 🌐 You might access it in this [link.](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
 
-# 😎 Contributer
-- [Felipe Gonzalez](https://www.linkedin.com/in/felipegzgc)
+# 📖 Conclusions
+
+It is quite important to expand our knowledge and to integrate multiple data sources. This can add complexity and real-world relevance to the analysis. This project serves as a similar example of how SQL can transform data into actionable insights. The possibilities are limitless, uncover new stories hidden within the numbers. Nowadays, data is the new gold, and SQL is one of the keys to unlocking its value.
 
 
+## Happy querying! 👽_"May the <<data>> be with you"_👽
 
+
+# 👋
+Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in IT.
+
+### Keep learning, keep exploring, and keep innovating! 
