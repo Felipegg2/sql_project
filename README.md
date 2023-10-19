@@ -103,10 +103,10 @@ Source: PostgreSQL Tutorial Website.
 It is quite important to expand our knowledge and to integrate multiple data sources. This can add complexity and real-world relevance to the analysis. This project serves as a similar example of how SQL can transform data into actionable insights. The possibilities are limitless, uncover new stories hidden within the numbers. Nowadays, data is the new gold, and SQL is one of the keys to unlocking its value.
 
 
-### Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.
+## Deep gratitude to [Cantek Canada](https://www.cantekcanada.com/) and its instructor, Will Edwards, for all supports and guiance in our path in data analysis.
 
 
 
-## Happy querying! 
+### Happy querying! 
 ### Keep learning, keep exploring, and keep innovating! See you soon.
 ### "_May the "data" be with you_"👽
