@@ -12,8 +12,7 @@ Source: Partial Data by Foursquare. [Bay Street Video](https://www.mapquest.com/
 
 ## 😎 Developed by:
 
-
-- [Felipe Gonzalez](https://www.linkedin.com/in/felipegzgc)
+###[Felipe Gonzalez](https://www.linkedin.com/in/felipegzgc)
 
 
 # 📜 Introduction
